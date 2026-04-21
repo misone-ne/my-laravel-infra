@@ -1,0 +1,8 @@
+/docker/mysql/data
+
+# OSが勝手に作るゴミファイル
+.DS_Store
+Thumbs.db
+
+# VS Codeの設定（共有したくない場合）
+.vscode/
